@@ -1,0 +1,30 @@
+[Defines]
+  INF_VERSION = 0x00010005
+  BASE_NAME = UEFIDiagTool
+  FILE_GUID = 495d466d-0d6b-4fe2-ad4e-37f590a51c89
+  MODULE_TYPE = UEFI_APPLICATION
+  VERSION_STRING = 0.01.0016
+  ENTRY_POINT = UefiMain
+  INCLUDE_PATHS = MdePkg/Library/BasePrintLib
+  
+[Sources]
+  UEFIDiagTool.c
+
+[Packages]
+  MdePkg/MdePkg.dec
+
+[LibraryClasses]
+  UefiBootServicesTableLib
+  UefiLib
+  BaseLib
+  PrintLib
+  DebugLib
+  PcdLib
+  BaseMemoryLib
+  RegisterFilterLib
+  MemoryAllocationLib
+  DevicePathLib
+  UefiRuntimeServicesTableLib
+
+[Depex]
+  TRUE  # No specific dependency expression for UEFI applications
