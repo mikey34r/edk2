@@ -1,0 +1,7 @@
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InternalGetSpinLockProperties.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InterlockedCompareExchange64.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InterlockedCompareExchange32.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/Ia32/InterlockedCompareExchange16.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/InterlockedIncrementMsc.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/InterlockedDecrementMsc.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/OUTPUT/SynchronizationMsc.obj

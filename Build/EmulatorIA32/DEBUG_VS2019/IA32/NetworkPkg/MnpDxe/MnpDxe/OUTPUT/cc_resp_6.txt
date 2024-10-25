@@ -1,0 +1,1 @@
+  g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\NetworkPkg\MnpDxe\MnpDxe\DEBUG\AutoGen.c g:\edk2\edk2\NetworkPkg\MnpDxe\MnpIo.c g:\edk2\edk2\NetworkPkg\MnpDxe\MnpConfig.c g:\edk2\edk2\NetworkPkg\MnpDxe\ComponentName.c g:\edk2\edk2\NetworkPkg\MnpDxe\MnpDriver.c g:\edk2\edk2\NetworkPkg\MnpDxe\MnpMain.c g:\edk2\edk2\NetworkPkg\MnpDxe\MnpVlan.c

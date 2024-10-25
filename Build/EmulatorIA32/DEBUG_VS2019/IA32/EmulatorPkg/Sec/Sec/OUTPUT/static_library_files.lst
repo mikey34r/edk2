@@ -1,0 +1,13 @@
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Sec/Sec/OUTPUT/EmuSec.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/OUTPUT/FilterLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/SecPpiListLib/SecPpiListLib/OUTPUT/SecPpiListLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/SecPeiServicesLib/SecPeiServicesLib/OUTPUT/SecPeiServicesLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/PeiEmuSerialPortLib/PeiEmuSerialPortLib/OUTPUT/PeiEmuSerialPortLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/PeiEmuPeCoffGetEntryPointLib/PeiEmuPeCoffGetEntryPointLib/OUTPUT/PeiEmuPeCoffGetEntryPointLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/StackCheckLibNull/StackCheckLibNull/OUTPUT/StackCheckLibNull.lib

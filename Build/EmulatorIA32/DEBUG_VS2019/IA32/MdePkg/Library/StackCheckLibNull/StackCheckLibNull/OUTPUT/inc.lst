@@ -1,0 +1,9 @@
+/Ig:\edk2\edk2\MdePkg\Library\StackCheckLibNull\IA32
+/Ig:\edk2\edk2\MdePkg\Library\StackCheckLibNull
+/Ig:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdePkg\Library\StackCheckLibNull\StackCheckLibNull\DEBUG
+/Ig:\edk2\edk2\MdePkg
+/Ig:\edk2\edk2\MdePkg\Include
+/Ig:\edk2\edk2\MdePkg\Test\UnitTest\Include
+/Ig:\edk2\edk2\MdePkg\Test\Mock\Include
+/Ig:\edk2\edk2\MdePkg\Library\MipiSysTLib\mipisyst\library\include
+/Ig:\edk2\edk2\MdePkg\Include\Ia32

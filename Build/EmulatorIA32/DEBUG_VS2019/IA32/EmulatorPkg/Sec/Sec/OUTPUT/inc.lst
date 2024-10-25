@@ -1,0 +1,11 @@
+/Ig:\edk2\edk2\EmulatorPkg\Sec\Ia32
+/Ig:\edk2\edk2\EmulatorPkg\Sec
+/Ig:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\Sec\Sec\DEBUG
+/Ig:\edk2\edk2\MdePkg
+/Ig:\edk2\edk2\MdePkg\Include
+/Ig:\edk2\edk2\MdePkg\Test\UnitTest\Include
+/Ig:\edk2\edk2\MdePkg\Test\Mock\Include
+/Ig:\edk2\edk2\MdePkg\Library\MipiSysTLib\mipisyst\library\include
+/Ig:\edk2\edk2\MdePkg\Include\Ia32
+/Ig:\edk2\edk2\EmulatorPkg
+/Ig:\edk2\edk2\EmulatorPkg\Include

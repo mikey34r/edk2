@@ -1,0 +1,27 @@
+
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\Acpi.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\Acpi.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\Console.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\Console.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiDriverModel.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiDriverModel.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiLib.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiLib.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiLibPrint.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiLibPrint.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiNotTiano.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiLib\UefiLib\OUTPUT\UefiNotTiano.c.deps
+!ENDIF
+
+               

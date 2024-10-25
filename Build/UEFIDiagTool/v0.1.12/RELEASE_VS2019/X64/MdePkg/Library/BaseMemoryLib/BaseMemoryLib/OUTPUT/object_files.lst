@@ -1,0 +1,17 @@
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMem.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/ScanMem64Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/ScanMem32Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/ScanMem16Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/ScanMem8Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/ZeroMemWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/CompareMemWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMemNWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMem64Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMem32Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMem16Wrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/SetMemWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/CopyMemWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/IsZeroBufferWrapper.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/MemLibGeneric.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/MemLibGuid.obj
+g:/edk2/edk2/Build/UEFIDiagTool/v0.1.12/RELEASE_VS2019/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/CopyMem.obj

@@ -1,0 +1,17 @@
+g:\edk2\edk2\MdePkg\Library\BaseMemoryLib\BaseMemoryLib.inf
+g:\edk2\edk2\MdePkg\Library\StackCheckLibNull\StackCheckLibNull.inf
+g:\edk2\edk2\EmulatorPkg\BootModePei\BootModePei.inf
+g:\edk2\edk2\MdePkg\Library\PeiMemoryAllocationLib\PeiMemoryAllocationLib.inf
+g:\edk2\edk2\MdeModulePkg\Library\PeiDxeDebugLibReportStatusCode\PeiDxeDebugLibReportStatusCode.inf
+g:\edk2\edk2\MdePkg\Library\PeiHobLib\PeiHobLib.inf
+g:\edk2\edk2\EmulatorPkg\Library\PeiServicesTablePointerLibMagicPage\PeiServicesTablePointerLibMagicPage.inf
+g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\BootModePei\BootModePei\DEBUG\AutoGen.h
+g:\edk2\edk2\MdePkg\Library\PeiPcdLib\PeiPcdLib.inf
+g:\edk2\edk2\EmulatorPkg\BootModePei\BootModePei.c
+g:\edk2\edk2\MdePkg\Library\PeimEntryPoint\PeimEntryPoint.inf
+g:\edk2\edk2\MdePkg\Library\PeiServicesLib\PeiServicesLib.inf
+g:\edk2\edk2\MdeModulePkg\Library\PeiReportStatusCodeLib\PeiReportStatusCodeLib.inf
+g:\edk2\edk2\MdePkg\Library\BaseDebugPrintErrorLevelLib\BaseDebugPrintErrorLevelLib.inf
+g:\edk2\edk2\MdeModulePkg\Library\OemHookStatusCodeLibNull\OemHookStatusCodeLibNull.inf
+g:\edk2\edk2\MdePkg\Library\RegisterFilterLibNull\RegisterFilterLibNull.inf
+g:\edk2\edk2\MdePkg\Library\BaseLib\BaseLib.inf

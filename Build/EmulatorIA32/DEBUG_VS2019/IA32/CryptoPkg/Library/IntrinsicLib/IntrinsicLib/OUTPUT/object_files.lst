@@ -1,0 +1,11 @@
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/MemoryIntrinsics.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/CopyMem.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathLShiftS64.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathRShiftU64.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathFtol.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathLlmul.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathLlshr.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathUlldiv.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathUlldvrm.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathLldiv.obj
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/CryptoPkg/Library/IntrinsicLib/IntrinsicLib/OUTPUT/Ia32/MathUllrem.obj

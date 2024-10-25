@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'IA32'}
+BuildOptionPcd: []
+Active Platform: g:\edk2\edk2\EmulatorPkg\EmulatorPkg.dsc
+Flash Image Definition: g:\edk2\edk2\EmulatorPkg\EmulatorPkg.fdf

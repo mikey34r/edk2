@@ -1,0 +1,129 @@
+ UEFIDiagTool
+
+ Timestamp is 671c119b (Fri Oct 25 17:46:03 2024)
+
+ Preferred load address is 0000000000000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0000161dH .text$mn                CODE
+ 0002:00000000 00000000H .data                   DATA
+ 0002:00000000 000010d0H .rdata                  DATA
+ 0002:000010d0 00000008H .bss                    DATA
+ 0002:000010d8 00000018H .rdata$voltmd           DATA
+ 0002:000010f0 00000088H .rdata$zzzdbg           DATA
+ 0003:00000000 00000060H .pdata                  DATA
+ 0004:00000000 0000006cH .xdata                  DATA
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0000:00000000       __AbsoluteZero             0000000000000000     <absolute>
+ 0000:00000000       __arm64x_extra_rfe_table   0000000000000000     <absolute>
+ 0000:00000000       __arm64x_extra_rfe_table_size 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_native_entrypoint 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_redirection_metadata 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_redirection_metadata_count 0000000000000000     <absolute>
+ 0000:00000000       __dynamic_value_reloc_table 0000000000000000     <absolute>
+ 0000:00000000       __enclave_config           0000000000000000     <absolute>
+ 0000:00000000       __guard_check_icall_a64n_fptr 0000000000000000     <absolute>
+ 0000:00000000       __guard_eh_cont_count      0000000000000000     <absolute>
+ 0000:00000000       __guard_eh_cont_table      0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_count         0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_table         0000000000000000     <absolute>
+ 0000:00000000       __guard_flags              0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_count          0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_table          0000000000000000     <absolute>
+ 0000:00000000       __guard_longjmp_count      0000000000000000     <absolute>
+ 0000:00000000       __guard_longjmp_table      0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_delayload_iat 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_delayload_iat_copy 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_iat     0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_iat_copy 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map          0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map_count    0000000000000000     <absolute>
+ 0000:00000000       __hybrid_image_info_bitfield 0000000000000000     <absolute>
+ 0000:00000000       __x64_code_ranges_to_entry_points 0000000000000000     <absolute>
+ 0000:00000000       __x64_code_ranges_to_entry_points_count 0000000000000000     <absolute>
+ 0000:00000000       __ImageBase                0000000000000000     <linker-defined>
+ 0001:00000000       AllOnesTest                0000000000001000 f   UEFIDiagTool:UEFIDiagTool.obj
+ 0001:0000008c       AllZerosTest               000000000000108c f   UEFIDiagTool:UEFIDiagTool.obj
+ 0001:00000118       AlternatingOnesZerosTest   0000000000001118 f   UEFIDiagTool:UEFIDiagTool.obj
+ 0001:000001a4       RunMemoryTest              00000000000011a4 f   UEFIDiagTool:UEFIDiagTool.obj
+ 0001:0000043c       UefiMain                   000000000000143c f   UEFIDiagTool:UEFIDiagTool.obj
+ 0001:000006b4       UnicodeSPrint              00000000000016b4 f   BasePrintLib:PrintLib.obj
+ 0001:000006e8       BasePrintLibFillBuffer     00000000000016e8 f   BasePrintLib:PrintLibInternal.obj
+ 0001:0000071c       BasePrintLibSPrintMarker   000000000000171c f   BasePrintLib:PrintLibInternal.obj
+ 0001:000015d0       BasePrintLibSPrint         00000000000025d0 f   BasePrintLib:PrintLibInternal.obj
+ 0001:000015f4       StrnLenS                   00000000000025f4 f   BaseLib:SafeString.obj
+ 0002:00000000       ??_C@_1EE@LMBGDIGE@?$AA?$AN?$AAA?$AAl?$AAl?$AA?5?$AA1?$AA?8?$AAs?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAf@ 0000000000003000     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000048       ??_C@_1CO@LAMGDCFF@?$AA?$AN?$AAA?$AAl?$AAl?$AA?5?$AA0?$AA?8?$AAs?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAp@ 0000000000003048     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000080       ??_C@_1EE@PGNBDHPH@?$AA?$AN?$AAA?$AAl?$AAl?$AA?5?$AA0?$AA?8?$AAs?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAf@ 0000000000003080     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000000d0       ??_C@_1GE@DFCPOJGP@?$AA?$AN?$AAA?$AAl?$AAt?$AAe?$AAr?$AAn?$AAa?$AAt?$AAi?$AAn?$AAg?$AA?5?$AA1?$AA?8@ 00000000000030d0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000140       ??_C@_1EO@EMGCHJHK@?$AA?$AN?$AAA?$AAl?$AAt?$AAe?$AAr?$AAn?$AAa?$AAt?$AAi?$AAn?$AAg?$AA?5?$AA1?$AA?8@ 0000000000003140     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000190       ??_C@_1FC@BJMMAMAA@?$AA?$AN?$AAA?$AAd?$AAd?$AAr?$AAe?$AAs?$AAs?$AA?5?$AAL?$AAi?$AAn?$AAe?$AA?5?$AAT@ 0000000000003190     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000001f0       ??_C@_1FG@MGJFOBAG@?$AA?$AN?$AAB?$AAl?$AAo?$AAc?$AAk?$AA?5?$AAM?$AAo?$AAv?$AAe?$AAm?$AAe?$AAn?$AAt@ 00000000000031f0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000250       ??_C@_1FI@BKAFAEAP@?$AA?$AN?$AAC?$AAo?$AAn?$AAs?$AAo?$AAl?$AAe?$AA?5?$AAI?$AAn?$AAp?$AAu?$AAt?$AA?5@ 0000000000003250     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000002b0       ??_C@_1FC@BOCMCALI@?$AA?$AN?$AAF?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAa?$AAl?$AAl?$AAo@ 00000000000032b0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000310       ??_C@_1EA@ELDAIEBC@?$AA?$AN?$AA?6?$AAU?$AAE?$AAF?$AAI?$AA?5?$AAM?$AAe?$AAm?$AAo?$AAr?$AAy?$AA?5?$AAD@ 0000000000003310     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000350       ??_C@_1DA@HKMLMNAF@?$AA?$AN?$AAS?$AAe?$AAl?$AAe?$AAc?$AAt?$AA?5?$AAa?$AA?5?$AAt?$AAe?$AAs?$AAt?$AA?5@ 0000000000003350     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000380       ??_C@_1CE@EMDOJPNA@?$AA?$AN?$AA0?$AA?4?$AA?5?$AAA?$AAl?$AAl?$AA?5?$AA0?$AA?8?$AAs?$AA?5?$AAT?$AAe?$AAs@ 0000000000003380     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000003a8       ??_C@_1CE@NNLPFKA@?$AA?$AN?$AA1?$AA?4?$AA?5?$AAA?$AAl?$AAl?$AA?5?$AA1?$AA?8?$AAs?$AA?5?$AAT?$AAe?$AAs@ 00000000000033a8     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000003d0       ??_C@_1EE@KMMHPIPA@?$AA?$AN?$AA2?$AA?4?$AA?5?$AAA?$AAl?$AAt?$AAe?$AAr?$AAn?$AAa?$AAt?$AAi?$AAn?$AAg@ 00000000000033d0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000418       ??_C@_1CO@LBFOGNNA@?$AA?$AN?$AA3?$AA?4?$AA?5?$AAA?$AAd?$AAd?$AAr?$AAe?$AAs?$AAs?$AA?5?$AAL?$AAi?$AAn@ 0000000000003418     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000448       ??_C@_1DC@DNLCNFOL@?$AA?$AN?$AA4?$AA?4?$AA?5?$AAB?$AAl?$AAo?$AAc?$AAk?$AA?5?$AAM?$AAo?$AAv?$AAe?$AAm@ 0000000000003448     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000480       ??_C@_1CG@BKCCPNFA@?$AA?$AN?$AA5?$AA?4?$AA?5?$AAR?$AAu?$AAn?$AA?5?$AAA?$AAl?$AAl?$AA?5?$AAT?$AAe?$AAs@ 0000000000003480     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000004a8       ??_C@_1CI@JFJHFDLO@?$AA?$AN?$AAP?$AAr?$AAe?$AAs?$AAs?$AA?5?$AAQ?$AA?5?$AAt?$AAo?$AA?5?$AAq?$AAu?$AAi@ 00000000000034a8     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000004d0       ??_C@_1EA@KCMEONAH@?$AA?$AN?$AAF?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAw?$AAa?$AAi?$AAt@ 00000000000034d0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000510       ??_C@_1DI@LGPABGGC@?$AA?$AN?$AAF?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAr?$AAe?$AAa?$AAd@ 0000000000003510     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000550       ??_C@_1EO@FJHBDHFM@?$AA?$AN?$AAI?$AAn?$AAv?$AAa?$AAl?$AAi?$AAd?$AA?5?$AAs?$AAe?$AAl?$AAe?$AAc?$AAt@ 0000000000003550     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000005a0       ??_C@_1DM@CJIOFMBC@?$AA?$AN?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAf?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAw?$AAi@ 00000000000035a0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000005e0       ??_C@_1BO@EPEHHFL@?$AA?$AN?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAp?$AAa?$AAs?$AAs?$AAe?$AAd?$AA?4?$AA?6@ 00000000000035e0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000600       ??_C@_1EA@IPNOHDII@?$AA?$AN?$AAC?$AAP?$AAU?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAn?$AAo?$AAt?$AA?5?$AAi@ 0000000000003600     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000640       ??_C@_1EA@DKCCPIIL@?$AA?$AN?$AAG?$AAP?$AAU?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAn?$AAo?$AAt?$AA?5?$AAi@ 0000000000003640     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000680       ??_C@_1EI@NOFKJCL@?$AA?$AN?$AAS?$AAt?$AAo?$AAr?$AAa?$AAg?$AAe?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AAn@ 0000000000003680     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000006d0       ??_C@_1FK@OPEICCLH@?$AA?$AN?$AAC?$AAo?$AAn?$AAs?$AAo?$AAl?$AAe?$AA?5?$AAI?$AAn?$AAp?$AAu?$AAt?$AA?5@ 00000000000036d0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000730       ??_C@_1GK@JKIKHCHL@?$AA?$AN?$AAC?$AAo?$AAn?$AAs?$AAo?$AAl?$AAe?$AA?5?$AAI?$AAn?$AAp?$AAu?$AAt?$AA?5@ 0000000000003730     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000007a0       ??_C@_1DA@MEDNMJHP@?$AA?$AN?$AAU?$AAE?$AAF?$AAI?$AA?5?$AAD?$AAi?$AAa?$AAg?$AAn?$AAo?$AAs?$AAt?$AAi@ 00000000000037a0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000007d0       ??_C@_1DE@CINLLEPK@?$AA?$AN?$AAS?$AAe?$AAl?$AAe?$AAc?$AAt?$AA?5?$AAa?$AAn?$AA?5?$AAo?$AAp?$AAt?$AAi@ 00000000000037d0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000808       ??_C@_1CC@NOGANOOF@?$AA?$AN?$AAM?$AA?4?$AA?5?$AAM?$AAe?$AAm?$AAo?$AAr?$AAy?$AA?5?$AAT?$AAe?$AAs?$AAt@ 0000000000003808     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000830       ??_C@_1EA@JBIPEKGI@?$AA?$AN?$AAC?$AA?4?$AA?5?$AAC?$AAP?$AAU?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AA?$CI?$AAN@ 0000000000003830     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000870       ??_C@_1EA@FCCHIODH@?$AA?$AN?$AAG?$AA?4?$AA?5?$AAG?$AAP?$AAU?$AA?5?$AAT?$AAe?$AAs?$AAt?$AA?5?$AA?$CI?$AAN@ 0000000000003870     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000008b0       ??_C@_1EI@BMLLJIMA@?$AA?$AN?$AAS?$AA?4?$AA?5?$AAS?$AAt?$AAo?$AAr?$AAa?$AAg?$AAe?$AA?5?$AAT?$AAe?$AAs@ 00000000000038b0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000008f8       ??_C@_1DM@JKDFOOBC@?$AA?$AN?$AAV?$AA?4?$AA?5?$AAV?$AAi?$AAe?$AAw?$AA?5?$AAA?$AAp?$AAp?$AAl?$AAi?$AAc@ 00000000000038f8     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000940       ??_C@_1EC@MLGBHNHA@?$AA?$AN?$AAR?$AAe?$AAs?$AAe?$AAt?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAI?$AAn?$AAp?$AAu@ 0000000000003940     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000990       ??_C@_1EE@GAFMLBBG@?$AA?$AN?$AAR?$AAe?$AAs?$AAe?$AAt?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAI?$AAn?$AAp?$AAu@ 0000000000003990     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:000009e0       ??_C@_1EC@OJPPDCA@?$AA?$AN?$AAF?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAr?$AAe?$AAs?$AAe@ 00000000000039e0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000a30       ??_C@_1EI@BECLHCAC@?$AA?$AN?$AAI?$AAn?$AAp?$AAu?$AAt?$AA?5?$AAd?$AAe?$AAv?$AAi?$AAc?$AAe?$AA?5?$AAr@ 0000000000003a30     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000a80       ??_C@_1EA@BMPFIPMA@?$AA?$AN?$AAW?$AAa?$AAi?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAk?$AAe@ 0000000000003a80     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000ac0       ??_C@_1EC@NHCKFLAK@?$AA?$AN?$AAW?$AAa?$AAi?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAk?$AAe@ 0000000000003ac0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000b10       ??_C@_1EO@CPMMINNK@?$AA?$AN?$AAW?$AAa?$AAi?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAk?$AAe@ 0000000000003b10     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000b60       ??_C@_1DG@MIBIFJMA@?$AA?$AN?$AAF?$AAa?$AAi?$AAl?$AAe?$AAd?$AA?5?$AAt?$AAo?$AA?5?$AAr?$AAe?$AAa?$AAd@ 0000000000003b60     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000b98       ??_C@_1BO@GLMMMEOM@?$AA?$AN?$AAK?$AAe?$AAy?$AA?5?$AAP?$AAr?$AAe?$AAs?$AAs?$AAe?$AAd?$AA?3?$AA?5@ 0000000000003b98     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000bb8       ??_C@_13LBAGMAIH@?$AA?6@   0000000000003bb8     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000bc0       ??_C@_1GG@PANPNFMH@?$AA?$AN?$AAT?$AAh?$AAe?$AA?5?$AAv?$AAe?$AAr?$AAs?$AAi?$AAo?$AAn?$AA?5?$AAo?$AAf@ 0000000000003bc0     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000c28       ??_C@_1CK@CMNHDENF@?$AA?$AN?$AAI?$AAn?$AAv?$AAa?$AAl?$AAi?$AAd?$AA?5?$AAs?$AAe?$AAl?$AAe?$AAc?$AAt@ 0000000000003c28     UEFIDiagTool:UEFIDiagTool.obj
+ 0002:00000c58       ??_C@_0O@MLOLIMFM@?$DMnull?5string?$DO@ 0000000000003c58     BasePrintLib:PrintLibInternal.obj
+ 0002:00000c68       ??_C@_0M@BJJDNPHK@?$DMnull?5guid?$DO@ 0000000000003c68     BasePrintLib:PrintLibInternal.obj
+ 0002:00000c78       ??_C@_0DB@PMLHLBMO@?$CF08x?9?$CF04x?9?$CF04x?9?$CF02x?$CF02x?9?$CF02x?$CF02@ 0000000000003c78     BasePrintLib:PrintLibInternal.obj
+ 0002:00000cb0       ??_C@_0M@LHGBCIKM@?$DMnull?5time?$DO@ 0000000000003cb0     BasePrintLib:PrintLibInternal.obj
+ 0002:00000cc0       ??_C@_0BK@FCPKCIDD@?$CF02d?1?$CF02d?1?$CF04d?5?5?$CF02d?3?$CF02d@ 0000000000003cc0     BasePrintLib:PrintLibInternal.obj
+ 0002:00000cdc       ??_C@_04JIMNDDED@?$CF08X@  0000000000003cdc     BasePrintLib:PrintLibInternal.obj
+ 0002:00000ce4       ??_C@_02PCIJFNDE@?$AN?6@   0000000000003ce4     BasePrintLib:PrintLibInternal.obj
+ 0002:00000ce8       ??_C@_01LIIJDEN@?$AN@      0000000000003ce8     BasePrintLib:PrintLibInternal.obj
+ 0002:00000cf0       mWarningString             0000000000003cf0     BasePrintLib:PrintLibInternal.obj
+ 0002:00000dc0       mErrorString               0000000000003dc0     BasePrintLib:PrintLibInternal.obj
+ 0002:000010a0       mHexStr                    00000000000040a0     BasePrintLib:PrintLibInternal.obj
+ 0002:000010d0       gBS                        00000000000040d0     UefiBootServicesTableLib:UefiBootServicesTableLib.obj
+ 0002:000010d8       __volatile_metadata        00000000000040d8     <linker-defined>
+
+ entry point at        0001:0000043c
+
+ Static symbols
+
+ 0004:00000000       $unwind$AllOnesTest        0000000000006000     UEFIDiagTool:UEFIDiagTool.obj
+ 0004:00000000       $unwind$AllZerosTest       0000000000006000     UEFIDiagTool:UEFIDiagTool.obj
+ 0004:00000000       $unwind$AlternatingOnesZerosTest 0000000000006000     UEFIDiagTool:UEFIDiagTool.obj
+ 0004:00000010       $unwind$RunMemoryTest      0000000000006010     UEFIDiagTool:UEFIDiagTool.obj
+ 0004:0000002c       $unwind$UefiMain           000000000000602c     UEFIDiagTool:UEFIDiagTool.obj
+ 0004:00000040       $unwind$UnicodeSPrint      0000000000006040     BasePrintLib:PrintLib.obj
+ 0004:00000048       $unwind$BasePrintLibSPrintMarker 0000000000006048     BasePrintLib:PrintLibInternal.obj
+ 0004:00000064       $unwind$BasePrintLibSPrint 0000000000006064     BasePrintLib:PrintLibInternal.obj

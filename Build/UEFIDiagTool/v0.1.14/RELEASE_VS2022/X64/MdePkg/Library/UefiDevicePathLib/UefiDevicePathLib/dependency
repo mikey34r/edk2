@@ -1,0 +1,23 @@
+
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathFromText.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathFromText.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathToText.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathToText.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilities.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilities.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilitiesDxeSmm.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilitiesDxeSmm.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\UefiDevicePathLib.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\UefiDevicePathLib.c.deps
+!ENDIF
+
+               

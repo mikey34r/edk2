@@ -1,0 +1,15 @@
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdeModulePkg/Universal/ReportStatusCodeRouter/Pei/ReportStatusCodeRouterPei/OUTPUT/ReportStatusCodeRouterPei.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdeModulePkg/Library/OemHookStatusCodeLibNull/OemHookStatusCodeLibNull/OUTPUT/OemHookStatusCodeLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/PeiServicesTablePointerLibMagicPage/PeiServicesTablePointerLibMagicPage/OUTPUT/EmulatorPkgPeiServicesTablePointerLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdeModulePkg/Library/PeiReportStatusCodeLib/PeiReportStatusCodeLib/OUTPUT/PeiReportStatusCodeLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/OUTPUT/FilterLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/PeiPcdLib/PeiPcdLib/OUTPUT/PeiPcdLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdeModulePkg/Library/PeiDxeDebugLibReportStatusCode/PeiDxeDebugLibReportStatusCode/OUTPUT/PeiDxeDebugLibReportStatusCode.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/PeimEntryPoint/PeimEntryPoint/OUTPUT/PeimEntryPoint.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/StackCheckLibNull/StackCheckLibNull/OUTPUT/StackCheckLibNull.lib

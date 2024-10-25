@@ -1,0 +1,1 @@
+  g:\edk2\edk2\EmulatorPkg\CpuRuntimeDxe\CpuIo.c g:\edk2\edk2\EmulatorPkg\CpuRuntimeDxe\Cpu.c g:\edk2\edk2\EmulatorPkg\CpuRuntimeDxe\MpService.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\CpuRuntimeDxe\Cpu\DEBUG\AutoGen.c

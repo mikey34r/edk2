@@ -1,0 +1,11 @@
+
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.12\RELEASE_VS2019\X64\MdePkg\Library\BasePrintLib\BasePrintLib\OUTPUT\PrintLib.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.12\RELEASE_VS2019\X64\MdePkg\Library\BasePrintLib\BasePrintLib\OUTPUT\PrintLib.c.deps
+!ENDIF
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.12\RELEASE_VS2019\X64\MdePkg\Library\BasePrintLib\BasePrintLib\OUTPUT\PrintLibInternal.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.12\RELEASE_VS2019\X64\MdePkg\Library\BasePrintLib\BasePrintLib\OUTPUT\PrintLibInternal.c.deps
+!ENDIF
+
+               

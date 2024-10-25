@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib.c g:\edk2\edk2\MdePkg\Library\UefiDevicePathLib\DevicePathToText.c g:\edk2\edk2\MdePkg\Library\UefiDevicePathLib\DevicePathUtilitiesDxeSmm.c g:\edk2\edk2\MdePkg\Library\UefiDevicePathLib\DevicePathFromText.c g:\edk2\edk2\MdePkg\Library\UefiDevicePathLib\DevicePathUtilities.c

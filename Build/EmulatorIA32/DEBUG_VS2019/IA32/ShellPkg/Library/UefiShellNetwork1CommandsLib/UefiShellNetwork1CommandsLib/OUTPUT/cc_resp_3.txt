@@ -1,0 +1,1 @@
+  g:\edk2\edk2\ShellPkg\Library\UefiShellNetwork1CommandsLib\Ifconfig.c g:\edk2\edk2\ShellPkg\Library\UefiShellNetwork1CommandsLib\UefiShellNetwork1CommandsLib.c g:\edk2\edk2\ShellPkg\Library\UefiShellNetwork1CommandsLib\Ping.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\ShellPkg\Library\UefiShellNetwork1CommandsLib\UefiShellNetwork1CommandsLib\DEBUG\AutoGen.c

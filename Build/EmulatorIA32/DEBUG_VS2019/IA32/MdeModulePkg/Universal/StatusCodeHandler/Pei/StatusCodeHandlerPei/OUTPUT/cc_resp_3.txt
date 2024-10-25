@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdeModulePkg\Universal\StatusCodeHandler\Pei\SerialStatusCodeWorker.c g:\edk2\edk2\MdeModulePkg\Universal\StatusCodeHandler\Pei\StatusCodeHandlerPei.c g:\edk2\edk2\MdeModulePkg\Universal\StatusCodeHandler\Pei\MemoryStausCodeWorker.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdeModulePkg\Universal\StatusCodeHandler\Pei\StatusCodeHandlerPei\DEBUG\AutoGen.c

@@ -1,0 +1,1 @@
+  g:\edk2\edk2\NetworkPkg\VlanConfigDxe\VlanConfigDriver.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\NetworkPkg\VlanConfigDxe\VlanConfigDxe\DEBUG\VlanConfig.c g:\edk2\edk2\NetworkPkg\VlanConfigDxe\ComponentName.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\NetworkPkg\VlanConfigDxe\VlanConfigDxe\DEBUG\AutoGen.c g:\edk2\edk2\NetworkPkg\VlanConfigDxe\VlanConfigImpl.c

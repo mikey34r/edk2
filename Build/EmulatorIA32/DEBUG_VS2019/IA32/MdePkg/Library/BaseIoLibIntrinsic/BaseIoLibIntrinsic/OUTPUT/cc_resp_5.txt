@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoLib.c g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoLibFifo.c g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoHighLevel.c g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoLibMsc.c g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoLibMmioBuffer.c g:\edk2\edk2\MdePkg\Library\BaseIoLibIntrinsic\IoLibInternalTdxNull.c

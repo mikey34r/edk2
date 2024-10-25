@@ -1,0 +1,15 @@
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Win/Host/WinHost/OUTPUT/WinHost.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/RegisterFilterLibNull/RegisterFilterLibNull/OUTPUT/FilterLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/SecPpiListLib/SecPpiListLib/OUTPUT/SecPpiListLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/ThunkPpiList/ThunkPpiList/OUTPUT/ThunkPpiList.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/ThunkProtocolList/ThunkProtocolList/OUTPUT/ThunkProtocolList.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/EmulatorPkg/Library/SecPeiServicesLib/SecPeiServicesLib/OUTPUT/SecPeiServicesLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdeModulePkg/Library/FrameBufferBltLib/FrameBufferBltLib/OUTPUT/FrameBufferBltLib.lib
+g:/edk2/edk2/Build/EmulatorIA32/DEBUG_VS2019/IA32/MdePkg/Library/StackCheckLibNull/StackCheckLibNull/OUTPUT/StackCheckLibNull.lib

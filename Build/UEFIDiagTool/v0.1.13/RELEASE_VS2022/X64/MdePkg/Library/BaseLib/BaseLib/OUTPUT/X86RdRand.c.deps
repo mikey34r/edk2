@@ -1,0 +1,9 @@
+g:\edk2\edk2\Build\UEFIDiagTool\v0.1.13\RELEASE_VS2022\X64\MdePkg\Library\BaseLib\BaseLib\OUTPUT\X86RdRand.obj: \
+"g:\edk2\edk2\Build\UEFIDiagTool\v0.1.13\RELEASE_VS2022\X64\MdePkg\Library\BaseLib\BaseLib\DEBUG\AutoGen.h" \
+"g:\edk2\edk2\MdePkg\Include\Base.h" \
+"g:\edk2\edk2\MdePkg\Include\X64\ProcessorBind.h" \
+"g:\edk2\edk2\MdePkg\Include\Library/PcdLib.h" \
+"g:\edk2\edk2\MdePkg\Library\BaseLib\BaseLibInternals.h" \
+"g:\edk2\edk2\MdePkg\Include\Library/BaseLib.h" \
+"g:\edk2\edk2\MdePkg\Include\Library/BaseMemoryLib.h" \
+"g:\edk2\edk2\MdePkg\Include\Library/DebugLib.h"

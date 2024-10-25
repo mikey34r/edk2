@@ -1,0 +1,5 @@
+g:\edk2\edk2\MdePkg\Library\StackCheckLibNull\StackCheckLibNull.inf
+g:\edk2\edk2\MdePkg\Library\StackCheckLibNull\StackCheckLibNullMsvc.c
+g:\edk2\edk2\MdePkg\Library\StackCheckLibNull\StackCheckLibNullGcc.c
+g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdePkg\Library\StackCheckLibNull\StackCheckLibNull\DEBUG\AutoGen.h
+g:\edk2\edk2\MdePkg\Library\StackCheckLibNull\IA32\StackCheckFunctionsMsvc.nasm

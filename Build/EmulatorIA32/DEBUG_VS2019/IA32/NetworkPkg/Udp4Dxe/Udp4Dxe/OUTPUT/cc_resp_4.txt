@@ -1,0 +1,1 @@
+  g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\NetworkPkg\Udp4Dxe\Udp4Dxe\DEBUG\AutoGen.c g:\edk2\edk2\NetworkPkg\Udp4Dxe\Udp4Impl.c g:\edk2\edk2\NetworkPkg\Udp4Dxe\ComponentName.c g:\edk2\edk2\NetworkPkg\Udp4Dxe\Udp4Main.c g:\edk2\edk2\NetworkPkg\Udp4Dxe\Udp4Driver.c

@@ -1,0 +1,1 @@
+g:\edk2\edk2\Build\UEFIDiagTool\v0.1.16\RELEASE_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\Makefile

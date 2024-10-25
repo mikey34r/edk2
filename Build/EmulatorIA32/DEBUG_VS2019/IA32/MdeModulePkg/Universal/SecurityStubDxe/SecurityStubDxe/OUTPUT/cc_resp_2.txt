@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdeModulePkg\Universal\SecurityStubDxe\Defer3rdPartyImageLoad.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdeModulePkg\Universal\SecurityStubDxe\SecurityStubDxe\DEBUG\AutoGen.c g:\edk2\edk2\MdeModulePkg\Universal\SecurityStubDxe\SecurityStub.c

@@ -1,0 +1,1 @@
+  g:\edk2\edk2\EmulatorPkg\EmuGopDxe\ComponentName.c g:\edk2\edk2\EmulatorPkg\EmuGopDxe\GopDriver.c g:\edk2\edk2\EmulatorPkg\EmuGopDxe\GopScreen.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\EmuGopDxe\EmuGopDxe\DEBUG\AutoGen.c g:\edk2\edk2\EmulatorPkg\EmuGopDxe\GopInput.c

@@ -1,0 +1,1 @@
+  g:\edk2\edk2\EmulatorPkg\Sec\Sec.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\Sec\Sec\DEBUG\AutoGen.c

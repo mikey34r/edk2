@@ -1,0 +1,1 @@
+  g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\EmulatorPkg\PlatformSmbiosDxe\PlatformSmbiosDxe\DEBUG\AutoGen.c g:\edk2\edk2\EmulatorPkg\PlatformSmbiosDxe\SmbiosTable.c g:\edk2\edk2\EmulatorPkg\PlatformSmbiosDxe\PlatformSmbiosDxe.c

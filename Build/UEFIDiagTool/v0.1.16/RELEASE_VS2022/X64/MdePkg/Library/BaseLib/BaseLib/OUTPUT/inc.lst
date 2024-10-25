@@ -1,0 +1,9 @@
+/Ig:\edk2\edk2\MdePkg\Library\BaseLib\X64
+/Ig:\edk2\edk2\MdePkg\Library\BaseLib
+/Ig:\edk2\edk2\Build\UEFIDiagTool\v0.1.16\RELEASE_VS2022\X64\MdePkg\Library\BaseLib\BaseLib\DEBUG
+/Ig:\edk2\edk2\MdePkg
+/Ig:\edk2\edk2\MdePkg\Include
+/Ig:\edk2\edk2\MdePkg\Test\UnitTest\Include
+/Ig:\edk2\edk2\MdePkg\Test\Mock\Include
+/Ig:\edk2\edk2\MdePkg\Library\MipiSysTLib\mipisyst\library\include
+/Ig:\edk2\edk2\MdePkg\Include\X64

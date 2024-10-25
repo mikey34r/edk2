@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdeModulePkg\Universal\DevicePathDxe\DevicePath.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdeModulePkg\Universal\DevicePathDxe\DevicePathDxe\DEBUG\AutoGen.c

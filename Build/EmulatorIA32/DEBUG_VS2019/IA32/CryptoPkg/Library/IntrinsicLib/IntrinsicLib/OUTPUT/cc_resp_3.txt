@@ -1,0 +1,1 @@
+  g:\edk2\edk2\CryptoPkg\Library\IntrinsicLib\Ia32\MathFtol.c g:\edk2\edk2\CryptoPkg\Library\IntrinsicLib\Ia32\MathLShiftS64.c g:\edk2\edk2\CryptoPkg\Library\IntrinsicLib\Ia32\MathRShiftU64.c

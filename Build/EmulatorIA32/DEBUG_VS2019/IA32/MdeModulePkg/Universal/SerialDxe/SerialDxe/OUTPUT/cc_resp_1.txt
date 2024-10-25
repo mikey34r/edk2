@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdeModulePkg\Universal\SerialDxe\SerialIo.c g:\edk2\edk2\Build\EmulatorIA32\DEBUG_VS2019\IA32\MdeModulePkg\Universal\SerialDxe\SerialDxe\DEBUG\AutoGen.c

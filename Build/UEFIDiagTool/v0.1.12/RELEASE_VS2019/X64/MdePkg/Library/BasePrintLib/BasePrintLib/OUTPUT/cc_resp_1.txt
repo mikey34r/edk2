@@ -1,0 +1,1 @@
+  g:\edk2\edk2\MdePkg\Library\BasePrintLib\PrintLib.c g:\edk2\edk2\MdePkg\Library\BasePrintLib\PrintLibInternal.c

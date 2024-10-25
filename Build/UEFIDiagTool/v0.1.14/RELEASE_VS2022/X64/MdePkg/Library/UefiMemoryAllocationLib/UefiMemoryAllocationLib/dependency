@@ -1,0 +1,7 @@
+
+
+!IF EXIST(g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiMemoryAllocationLib\UefiMemoryAllocationLib\OUTPUT\MemoryAllocationLib.c.deps)
+!INCLUDE g:\edk2\edk2\Build\UEFIDiagTool\v0.1.14\RELEASE_VS2022\X64\MdePkg\Library\UefiMemoryAllocationLib\UefiMemoryAllocationLib\OUTPUT\MemoryAllocationLib.c.deps
+!ENDIF
+
+               
